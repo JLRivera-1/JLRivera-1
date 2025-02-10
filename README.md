@@ -2,10 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Project 1(link to project repository)</b>
+- <b>[Homemade IDS](https://github.com/JLRivera-1/Homemade-IDS)</b>
   
 <h2>📜Certifications</h2>
 
 - [CompTIA Security + SYD-701](https://www.comptia.org/certifications/security)
-
-<h2> 🤳 Connect with me:</h2>
